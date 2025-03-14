@@ -1,3 +1,2 @@
 # VBA
-Excel VBA Games
-Including Sudoku and Snake
+Excel VBA Games: including Sudoku and Snake, hope you will enjoy them!
